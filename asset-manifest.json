@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/duypc.github.io/static/css/main.a5945697.css",
-    "main.js": "/duypc.github.io/static/js/main.10c82b64.js",
+    "main.css": "/duypc.github.io/static/css/main.c9f0d6da.css",
+    "main.js": "/duypc.github.io/static/js/main.624e0d9f.js",
     "static/js/787.de7ba2ad.chunk.js": "/duypc.github.io/static/js/787.de7ba2ad.chunk.js",
     "static/media/roges3.jpg": "/duypc.github.io/static/media/roges3.5d2a030e3a05374f7266.jpg",
     "static/media/lighthong.jpg": "/duypc.github.io/static/media/lighthong.8308a88904d6e8026dbd.jpg",
     "static/media/becalden.jpg": "/duypc.github.io/static/media/becalden.a982b0477f1a02ca1162.jpg",
+    "static/media/roges1hong.jpg": "/duypc.github.io/static/media/roges1hong.d777da2d95f0a8b7f6a6.jpg",
     "static/media/rainbow.jpg": "/duypc.github.io/static/media/rainbow.d681a689ded983571d91.jpg",
     "static/media/roges1den.jpg": "/duypc.github.io/static/media/roges1den.87cb0aacfdef4eeeb2fb.jpg",
     "static/media/roges1trang.jpg": "/duypc.github.io/static/media/roges1trang.b268e408b2f462821213.jpg",
-    "static/media/roges1hong.jpg": "/duypc.github.io/static/media/roges1hong.442fd328d0772d337802.jpg",
     "static/media/lightden.jpg": "/duypc.github.io/static/media/lightden.7cb7d53cc97ebb25a3a3.jpg",
     "static/media/becaltrang.jpg": "/duypc.github.io/static/media/becaltrang.b8c8ecfea42d5edebed3.jpg",
     "static/media/loamini.jpg": "/duypc.github.io/static/media/loamini.9506b3fddd21500faca7.jpg",
@@ -20,12 +20,12 @@
     "static/media/becasden.jpg": "/duypc.github.io/static/media/becasden.b22b974d457131b2110a.jpg",
     "static/media/lotchuot.jpg": "/duypc.github.io/static/media/lotchuot.5c199122506ac955840f.jpg",
     "index.html": "/duypc.github.io/index.html",
-    "main.a5945697.css.map": "/duypc.github.io/static/css/main.a5945697.css.map",
-    "main.10c82b64.js.map": "/duypc.github.io/static/js/main.10c82b64.js.map",
+    "main.c9f0d6da.css.map": "/duypc.github.io/static/css/main.c9f0d6da.css.map",
+    "main.624e0d9f.js.map": "/duypc.github.io/static/js/main.624e0d9f.js.map",
     "787.de7ba2ad.chunk.js.map": "/duypc.github.io/static/js/787.de7ba2ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5945697.css",
-    "static/js/main.10c82b64.js"
+    "static/css/main.c9f0d6da.css",
+    "static/js/main.624e0d9f.js"
   ]
 }
