@@ -52,7 +52,7 @@
 }
 .showP{
   margin-top: 15px;
-  margin-left: 990px;
+  /* margin-left: 990px; */
   font-weight: bold;
   font-size: 17px; 
 }
@@ -61,7 +61,7 @@
   font-weight: bold;
   font-size: 17px; 
   color: red;
-  margin-left: 990px;
+  /* margin-left: 990px; */
 
 }
 .showPcolorBlue{
@@ -69,7 +69,7 @@
   font-weight: bold;
   font-size: 20px; 
   color: blue;
-  margin-left: 990px;
+  /* margin-left: 990px; */
   ;
 
 }
@@ -80,6 +80,7 @@
 }
 .showimg{
   float: left;
+  margin-right: 30px;
   
 }
 .showimg0{
