@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import Select from 'react-select';
 import './App.css';
 import loamini from './img/loamini.jpg'
-import phim from './img/phim.jpeg'
+import phim from './img/phim.jpg'
 import lotchuot from './img/lotchuot.jpg'
 import { dataCard, dataCase, dataLai, dataMainchip, dataManhinh, dataPow, dataRam, dataSsd, dataTan } from './Data'
 
