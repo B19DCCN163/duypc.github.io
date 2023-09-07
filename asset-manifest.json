@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/duypc.github.io/static/css/main.c9f0d6da.css",
-    "main.js": "/duypc.github.io/static/js/main.624e0d9f.js",
+    "main.css": "/duypc.github.io/static/css/main.f4d8470e.css",
+    "main.js": "/duypc.github.io/static/js/main.0f81a469.js",
     "static/js/787.de7ba2ad.chunk.js": "/duypc.github.io/static/js/787.de7ba2ad.chunk.js",
     "static/media/roges3.jpg": "/duypc.github.io/static/media/roges3.5d2a030e3a05374f7266.jpg",
     "static/media/lighthong.jpg": "/duypc.github.io/static/media/lighthong.8308a88904d6e8026dbd.jpg",
@@ -20,12 +20,12 @@
     "static/media/becasden.jpg": "/duypc.github.io/static/media/becasden.b22b974d457131b2110a.jpg",
     "static/media/lotchuot.jpg": "/duypc.github.io/static/media/lotchuot.5c199122506ac955840f.jpg",
     "index.html": "/duypc.github.io/index.html",
-    "main.c9f0d6da.css.map": "/duypc.github.io/static/css/main.c9f0d6da.css.map",
-    "main.624e0d9f.js.map": "/duypc.github.io/static/js/main.624e0d9f.js.map",
+    "main.f4d8470e.css.map": "/duypc.github.io/static/css/main.f4d8470e.css.map",
+    "main.0f81a469.js.map": "/duypc.github.io/static/js/main.0f81a469.js.map",
     "787.de7ba2ad.chunk.js.map": "/duypc.github.io/static/js/787.de7ba2ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9f0d6da.css",
-    "static/js/main.624e0d9f.js"
+    "static/css/main.f4d8470e.css",
+    "static/js/main.0f81a469.js"
   ]
 }
